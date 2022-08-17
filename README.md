@@ -14,3 +14,4 @@ time taken to complete : 45 min
 - positioning and flexbox 
 
 
+![Screenshot from 2022-08-17 15-58-32](https://user-images.githubusercontent.com/42288787/185098331-6056d68e-fe8a-439a-911b-31d2505beb22.png)
